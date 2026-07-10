@@ -1,10 +1,8 @@
 # Photo Feed
 
-**Session 1** — replaces the old Movies List demo.
-
 Your first network call, but with enough rows to actually scroll: `fetch` + a loading spinner + a `FlatList` of 100 real photos, each with a remote thumbnail `Image`.
 
-Data comes from [Lorem Picsum](https://picsum.photos) — free, no key. (The old `jsonplaceholder/photos` feed was dropped because its thumbnails point at `via.placeholder.com`, which is dead as of 2026 and renders blank.)
+Data comes from [Lorem Picsum](https://picsum.photos). 
 
 ## Run it
 
