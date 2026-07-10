@@ -1,6 +1,5 @@
 # Reaction Game
 
-**Session 3**
 
 A tiny state machine and timing with `Date.now()`. Tap when the screen turns green; it measures your reaction in milliseconds.
 
